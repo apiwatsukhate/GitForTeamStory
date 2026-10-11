@@ -10,7 +10,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 1. Once upon a time, there was a **castle** There was an explosion.
    ![castle](img1.png)
 
-2. Then suddenly, a **dragon** appeared upon the castle . The people around the castle are in a state of shock but there're still not sure if ii's really a **dragon* or a **robot**.
+2. Then suddenly, a **dragon** appeared upon the castle . The people around the castle are in a state of shock but there're still not sure if ii's really a **dragon** or a **robot**.
 (Nobody is sure yet.)
 
 3. The scientist shouted something very important but nobody wrote it down.  
