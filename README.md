@@ -8,7 +8,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ## Our Wonderful Story
 
 1. Once upon a time, there was a **castle** There was an explosion.
-   ![castle](img1.png)
+   ![castle](/img/castle.png)
 
 2. Then suddenly, a **dragon** appeared upon the castle . The people around the castle are in a state of shock but there're still not sure if it's really a **dragon** or a **robot**.
 (Nobody is sure yet.)
@@ -22,7 +22,7 @@ The scientist: If you want to find the treasure, you must overcome many obstacle
 5. Someone found a map, but it had no directions.  a pirate suddenly jumped out of the bushes, 
    (TODO: add an image of the map?)  
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  and right then,
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
