@@ -7,7 +7,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
+1. Once upon a time, there was a **castle** There was an explosion.
    ![castle](img1.png)
 
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
