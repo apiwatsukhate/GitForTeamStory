@@ -16,7 +16,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 3. The scientist shouted something very important but nobody wrote it down.
 The scientist: If you want to find the treasure, you must overcome many obstacles and find a way to survive. If you wish to proceed, follow the path illuminated by the lights, and you will discover the way to wealth and fortune. The statues will show you which direction to go to find the map. Pay close attention, youfools!
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
+4. After following the statue, everyone got lost and stumbled upon a clearing in the forest where, for some reason, a treasure chest had appeared—filled with a vast amount of treasure.
    ![treasure chest](img2.png)
 
 5. Someone found a map, but it had no directions.  
