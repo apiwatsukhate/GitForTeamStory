@@ -19,7 +19,7 @@ The scientist: If you want to find the treasure, you must overcome many obstacle
 4. After following the statue, everyone got lost and stumbled upon a clearing in the forest where, for some reason, a treasure chest had appeared—filled with a vast amount of treasure.
    ![treasure chest](img2.png)
 
-5. Someone found a map, but it had no directions.  
+5. Someone found a map, but it had no directions.  a pirate suddenly jumped out of the bushes, 
    (TODO: add an image of the map?)  
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
